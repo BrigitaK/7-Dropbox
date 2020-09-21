@@ -59,7 +59,7 @@ body{
         }
         .background{
             width: 1000px;
-            background-image: url(../img/kompiuteris.png);
+            background-image: url(../kompiuteris.png);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
